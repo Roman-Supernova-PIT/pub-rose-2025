@@ -1,0 +1,472 @@
+
+##############################
+     Reading .DUMP files:     
+
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_AGN/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_AGN.DUMP.gz
+155 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA.DUMP.gz
+97975 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_ILOT/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_ILOT.DUMP.gz
+90 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_PISN/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_PISN.DUMP.gz
+12 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_TDE/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_TDE.DUMP.gz
+46 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_RANMAG/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_RANMAG.DUMP.gz
+527 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_KN/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_KN.DUMP.gz
+41 total objects
+snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_SLSN/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_SLSN.DUMP.gz
+73 total objects
+
+##############################
+Reading 47 *_HEAD.FITS and *_PHOT.FITS files:
+
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_AGN/PIP_PIPPIN_ROMAN_TRANS_ROea1c4_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_AGN/PIP_PIPPIN_ROMAN_TRANS_ROea1c4_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_ILOT/PIP_PIPPIN_ROMAN_TRANS_RO357c6_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_ILOT/PIP_PIPPIN_ROMAN_TRANS_RO357c6_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_KN/PIP_PIPPIN_ROMAN_TRANS_RO36977_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_KN/PIP_PIPPIN_ROMAN_TRANS_RO36977_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_PISN/PIP_PIPPIN_ROMAN_TRANS_RO51c18_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_PISN/PIP_PIPPIN_ROMAN_TRANS_RO51c18_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_RANMAG/PIP_PIPPIN_ROMAN_TRANS_RO0c7ab_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_RANMAG/PIP_PIPPIN_ROMAN_TRANS_RO0c7ab_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_SLSN/PIP_PIPPIN_ROMAN_TRANS_ROa3db9_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_SLSN/PIP_PIPPIN_ROMAN_TRANS_ROa3db9_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_TDE/PIP_PIPPIN_ROMAN_TRANS_ROad498_NONIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_ROMAN_PLAsTiCC_TDE/PIP_PIPPIN_ROMAN_TRANS_ROad498_NONIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0002_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0002_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0003_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0003_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0004_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0004_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0005_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0005_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0006_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0006_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0007_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0007_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0008_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0008_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0009_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0009_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0010_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL1-0010_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0002_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0002_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0003_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0003_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0004_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0004_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0005_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0005_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0006_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0006_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0007_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0007_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0008_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0008_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0009_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0009_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0010_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL2-0010_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0002_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0002_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0003_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0003_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0004_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0004_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0005_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0005_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0006_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0006_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0007_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0007_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0008_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0008_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0009_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0009_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0010_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_NONIaMODEL3-0010_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0001_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0001_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0002_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0002_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0003_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0003_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0004_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0004_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0005_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0005_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0006_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0006_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0007_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0007_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0008_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0008_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0009_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0009_PHOT.FITS.gz
+Concatinating object & photomerty data
+Opening snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0010_HEAD.FITS.gz
+      & snana_output/PIP_PIPPIN_ROMAN_TRANS_SUPERNOVA/PIP_PIPPIN_ROMAN_TRANS_SUaa107_SNIaMODEL0-0010_PHOT.FITS.gz
+Concatinating object & photomerty data
+
+##############################
+###DROPIING DUPLICATE CIDS!###
+
+Original size 98919
+New size 98628
+
+##############################
+    Checking final objects    
+                FIELD SNTYPE  NON1A_INDEX     ZCMB         RA       DEC  \
+CID                                                                       
+599   WIDE+WIDE-PRISM    AGN           15  1.23237   53.10656 -27.69558   
+491   WIDE+WIDE-PRISM    AGN           15  1.85767   34.42418  -5.25877   
+313              WIDE    AGN           15  1.44202  189.14577  62.30030   
+1510             WIDE    AGN           15  1.61438   34.38631  -5.15153   
+597              WIDE    AGN           15  2.16345   34.38106  -5.21515   
+
+         MWEBV  PEAKMJD  SNRMAX_Y  SNRMAX_J  PEAKMAG_Y  PEAKMAG_J  NOBS  \
+CID                                                                       
+599   0.007991  61800.0  22.06960   7.53317    21.4627    22.0572   584   
+491   0.019804  61800.0   7.52009   7.06682    25.9424    25.7910   584   
+313   0.010446  61800.0  19.58660  24.17770    24.0458    24.9727   584   
+1510  0.019133  61800.0   5.05364  11.32620    23.2171    23.2930   584   
+597   0.019810  61800.0   8.64921  10.93030    23.9970    24.0132   584   
+
+      TRESTMIN  TRESTMAX  SNTYPE_HEAD  PTROBS_MIN  PTROBS_MAX  NOBS_HEAD  \
+CID                                                                        
+599    89.5562   414.357           60           1         584        584   
+491    69.9294   323.691           60         586        1169        584   
+313    81.8993   378.935           60        1171        1754        584   
+1510   76.4367   353.812           60        1756        2339        584   
+597    63.1699   292.402           60        2341        2924        584   
+
+      SCONE_PROB_IA  
+CID                  
+599             NaN  
+491             NaN  
+313             NaN  
+1510            NaN  
+597             NaN  
+        NON1A_INDEX          ZCMB            RA           DEC         MWEBV  \
+count  98628.000000  98628.000000  98628.000000  98628.000000  98628.000000   
+mean     526.410238      1.237894    125.636340     15.871074      0.011317   
+std      333.652012      0.563338     72.943709     36.312331      0.004610   
+min        0.000000      0.000000     34.221440    -48.425320      0.000000   
+25%        0.000000      0.813457     53.082560    -27.659557      0.007398   
+50%      725.000000      1.158205    150.111155      2.322655      0.009844   
+75%      752.000000      1.601237    189.313542     53.016562      0.015286   
+max      999.000000      2.899760    215.303250     62.386160      0.022690   
+
+            PEAKMJD      SNRMAX_Y      SNRMAX_J     PEAKMAG_Y     PEAKMAG_J  \
+count  98628.000000  98359.000000  96838.000000  98362.000000  96843.000000   
+mean   62324.410944     16.812802     15.341197     25.543661     25.590689   
+std      244.649986     18.293378     16.229392      1.276838      1.146092   
+min    61800.000000     -6.780420     -8.599870     18.048800     18.048800   
+25%    62118.414000      7.187210      7.267518     24.719600     24.836200   
+50%    62326.722000     11.587600     11.229000     25.683700     25.628500   
+75%    62534.231000     20.314450     18.440400     26.434675     26.426200   
+max    62838.681000    787.049000    784.209000     31.687300     29.440900   
+
+               NOBS      TRESTMIN      TRESTMAX   SNTYPE_HEAD    PTROBS_MIN  \
+count  98628.000000  98628.000000  98628.000000  98628.000000  9.862800e+04   
+mean     178.775317    -28.974194     76.282679     24.536237  4.926887e+05   
+std       70.714006     24.257083     28.147304     10.218890  3.675785e+05   
+min        2.000000    -49.956100    -39.732200     10.000000  1.000000e+00   
+25%      135.000000    -39.348900     82.916850     10.000000  1.804325e+05   
+50%      184.000000    -38.634500     88.521100     30.000000  4.021345e+05   
+75%      224.000000    -37.486700     89.305500     30.000000  7.986690e+05   
+max      584.000000     99.802700    462.123000     90.000000  1.269353e+06   
+
+         PTROBS_MAX     NOBS_HEAD  SCONE_PROB_IA  
+count  9.862800e+04  98628.000000    97975.00000  
+mean   4.928663e+05    178.607464        0.30790  
+std    3.675802e+05     70.866340        0.41221  
+min    1.200000e+01      2.000000        0.00000  
+25%    1.806282e+05    134.000000        0.00110  
+50%    4.023215e+05    184.000000        0.02270  
+75%    7.988165e+05    224.000000        0.82460  
+max    1.269524e+06    584.000000        0.99950  
+
+Cheking final photometry file
+   CID      MJD BAND  PHOTFLAG    FLUXCAL  FLUXCALERR  PSF_SIG1  SKY_SIG  \
+0  599  62000.0    Z         0   8.537392    2.550390  0.281823    5.648   
+1  599  62000.0    Y         0  42.777351    2.704907  0.335871    6.000   
+2  599  62000.0    J         0 -37.272591    2.259931  0.405362    6.017   
+
+   RDNOISE     ZEROPT  ZEROPT_ERR  SIM_MAGOBS  
+0   10.624  31.302999        0.01   21.696659  
+1   10.624  31.356001        0.01   21.524691  
+2   10.624  31.354000        0.01   21.905542  
+             CID      MJD BAND  PHOTFLAG   FLUXCAL  FLUXCALERR  PSF_SIG1  \
+17562465  443780  62270.0    J         0  0.243401    0.183025  0.405362   
+17562466  443780  62270.0    H         0 -0.077803    0.213802  0.490294   
+17562467  443780  62270.0    F         0  0.230607    0.188290  0.582949   
+
+          SKY_SIG  RDNOISE     ZEROPT  ZEROPT_ERR  SIM_MAGOBS  
+17562465   10.421    7.450  32.547001        0.01   29.243933  
+17562466   10.775    7.450  32.570000        0.01   29.595814  
+17562467   17.723    5.942  33.299000        0.01   30.180368  
+                CID           MJD    PHOTFLAG       FLUXCAL    FLUXCALERR  \
+count  1.756247e+07  1.756247e+07  17562468.0  1.756247e+07  1.756247e+07   
+mean   2.315767e+05  6.237368e+04         0.0  4.598544e+00  4.093083e-01   
+std    1.364181e+05  2.018223e+02         0.0  6.480161e+01  3.023611e-01   
+min    3.000000e+00  6.200000e+04         0.0 -3.235450e+02  1.283809e-01   
+25%    1.123950e+05  6.220500e+04         0.0  1.039310e-01  2.108218e-01   
+50%    2.318190e+05  6.237500e+04         0.0  7.359036e-01  3.995129e-01   
+75%    3.507060e+05  6.254500e+04         0.0  2.759342e+00  5.202180e-01   
+max    4.666590e+05  6.272500e+04         0.0  2.446244e+04  2.714493e+01   
+
+           PSF_SIG1       SKY_SIG       RDNOISE        ZEROPT   ZEROPT_ERR  \
+count  1.756247e+07  1.756247e+07  1.756247e+07  1.756247e+07  17562468.00   
+mean   3.543218e-01  7.784071e+00  9.434500e+00  3.182925e+01         0.01   
+std    9.363331e-02  3.158371e+00  1.563934e+00  6.329709e-01         0.00   
+min    2.239140e-01  5.648000e+00  5.942000e+00  3.130300e+01         0.01   
+25%    2.818228e-01  6.000000e+00  7.450000e+00  3.135400e+01         0.01   
+50%    3.358710e-01  6.017000e+00  1.062400e+01  3.135600e+01         0.01   
+75%    4.053616e-01  1.039200e+01  1.062400e+01  3.254700e+01         0.01   
+max    5.829486e-01  1.772300e+01  1.062400e+01  3.329900e+01         0.01   
+
+         SIM_MAGOBS  
+count  1.756247e+07  
+mean   4.168505e+01  
+std    2.851563e+01  
+min    1.652846e+01  
+25%    2.639823e+01  
+50%    2.791660e+01  
+75%    3.132947e+01  
+max    9.900000e+01  
+
+
+##############################
+   Checking parquet objects   
+pyarrow.Table
+FIELD: string
+SNTYPE: string
+ZCMB: double
+RA: double
+DEC: double
+MWEBV: double
+PEAKMJD: double
+SNRMAX_Y: double
+SNRMAX_J: double
+PEAKMAG_Y: double
+PEAKMAG_J: double
+NOBS: int64
+TRESTMIN: double
+TRESTMAX: double
+SCONE_PROB_IA: double
+CID: int64
+----
+FIELD: [["WIDE+WIDE-PRISM","WIDE+WIDE-PRISM","WIDE","WIDE","WIDE",...,"DEEP","DEEP","WIDE+WIDE-PRISM","WIDE+WIDE-PRISM","WIDE+WIDE-PRISM"]]
+SNTYPE: [["AGN","AGN","AGN","AGN","AGN",...,"SLSN-I","SLSN-I","SLSN-I","SLSN-I","SLSN-I"]]
+ZCMB: [[1.23237,1.85767,1.44202,1.61438,2.16345,...,2.17059,2.88698,1.67911,2.70418,0.768575]]
+RA: [[53.10656,34.42418,189.14577,34.38631,34.38106,...,34.38918,189.14529,150.09273,189.07903,34.37521]]
+DEC: [[-27.69558,-5.25877,62.3003,-5.15153,-5.21515,...,-5.16843,62.21486,2.53067,62.24504,-5.14838]]
+MWEBV: [[0.00799122,0.0198036,0.0104462,0.0191333,0.0198104,...,0.0199396,0.0107304,0.0149203,0.00991073,0.0210871]]
+PEAKMJD: [[61800,61800,61800,61800,61800,...,61810.974,61998.009,61846.657,62329.829,62725.465]]
+SNRMAX_Y: [[22.0696,7.52009,19.5866,5.05364,8.64921,...,45.9676,20.9132,15.1176,42.7548,83.5311]]
+SNRMAX_J: [[7.53317,7.06682,24.1777,11.3262,10.9303,...,63.9804,26.833,19.1663,42.8505,75.4454]]
+PEAKMAG_Y: [[21.4627,25.9424,24.0458,23.2171,23.997,...,22.842,25.581,22.5958,23.1055,21.7061]]
+...
+pyarrow.Table
+CID: int64
+MJD: double
+BAND: string
+PHOTFLAG: int32
+FLUXCAL: float
+FLUXCALERR: float
+PSF_SIG1: float
+SKY_SIG: float
+RDNOISE: float
+ZEROPT: float
+ZEROPT_ERR: float
+SIM_MAGOBS: float
+----
+CID: [[599,599,599,599,599,...,443780,443780,443780,443780,443780]]
+MJD: [[62000,62000,62000,62005,62005,...,62265,62270,62270,62270,62270]]
+BAND: [["Z","Y","J","R","Z",...,"F","Y","J","H","F"]]
+PHOTFLAG: [[0,0,0,0,0,...,0,0,0,0,0]]
+FLUXCAL: [[8.537392,42.77735,-37.27259,136.09402,-3.3167608,...,0.2788369,0.04088061,0.24340123,-0.07780269,0.23060668]]
+FLUXCALERR: [[2.55039,2.7049072,2.2599308,2.3662152,2.4794128,...,0.18890241,0.14706378,0.18302545,0.21380179,0.18828985]]
+PSF_SIG1: [[0.2818228,0.335871,0.4053616,0.22391401,0.2818228,...,0.58294857,0.335871,0.4053616,0.4902945,0.58294857]]
+SKY_SIG: [[5.648,6,6.017,7.133,5.648,...,17.723,10.392,10.421,10.775,17.723]]
+RDNOISE: [[10.624,10.624,10.624,9.011,10.624,...,5.942,7.45,7.45,7.45,5.942]]
+ZEROPT: [[31.303,31.356,31.354,32.129,31.303,...,33.299,32.549,32.547,32.57,33.299]]
+...
+
+##############################
+     Checking final spec      
+                CID      MJD  Texpose  NBIN_LAM  PTRSPEC_MIN  PTRSPEC_MAX  \
+0  391               62555.0   3600.0       178            1          178   
+1  391               62560.0   3600.0       178          180          357   
+2  391               62565.0   3600.0       178          359          536   
+3  391               62570.0   3600.0       178          538          715   
+4  391               62575.0   3600.0       178          717          894   
+
+                                              LAMMIN  \
+0  [7460.10009765625, 7479.39990234375, 7498.7998...   
+1  [7460.10009765625, 7479.39990234375, 7498.7998...   
+2  [7460.10009765625, 7479.39990234375, 7498.7998...   
+3  [7460.10009765625, 7479.39990234375, 7498.7998...   
+4  [7460.10009765625, 7479.39990234375, 7498.7998...   
+
+                                              LAMMAX  \
+0  [7479.39990234375, 7498.7998046875, 7518.29980...   
+1  [7479.39990234375, 7498.7998046875, 7518.29980...   
+2  [7479.39990234375, 7498.7998046875, 7518.29980...   
+3  [7479.39990234375, 7498.7998046875, 7518.29980...   
+4  [7479.39990234375, 7498.7998046875, 7518.29980...   
+
+                                                FLAM  \
+0  [-7.157536971754235e-19, -1.2213781863561186e-...   
+1  [1.3879805301328474e-18, -1.406176151314147e-1...   
+2  [2.2408211124678825e-18, 6.041700310717406e-19...   
+3  [-2.243623393588059e-18, 3.2773177627747107e-1...   
+4  [6.973025288836333e-20, -4.2619359198088976e-1...   
+
+                                             FLAMERR  \
+0  [2.1330121816920087e-18, 8.182881107753529e-19...   
+1  [2.1330225214496657e-18, 8.182966410754199e-19...   
+2  [2.133030586460638e-18, 8.183041890985094e-19,...   
+3  [2.1330376174958448e-18, 8.183099793627973e-19...   
+4  [2.1330477504583485e-18, 8.183190783495354e-19...   
+
+                                            SIM_FLAM  
+0  [1.3261980773703121e-20, 1.3178491269591385e-2...  
+1  [1.5303166065244924e-20, 1.521154450329474e-20...  
+2  [1.7125453032634914e-20, 1.7028076749313803e-2...  
+3  [1.868618613657049e-20, 1.8585383192938393e-20...  
+4  [2.004484806414731e-20, 1.9942579782984773e-20...  
+                  CID      MJD  Texpose  NBIN_LAM  PTRSPEC_MIN  PTRSPEC_MAX  \
+211  912               62285.0    900.0       152        38685        38836   
+212  912               62290.0    900.0       152        38838        38989   
+213  912               62295.0    900.0       152        38991        39142   
+214  912               62300.0    900.0       152        39144        39295   
+215  912               62305.0    900.0       152        39297        39448   
+
+                                                LAMMIN  \
+211  [7460.10009765625, 7479.39990234375, 7498.7998...   
+212  [7460.10009765625, 7479.39990234375, 7498.7998...   
+213  [7460.10009765625, 7479.39990234375, 7498.7998...   
+214  [7460.10009765625, 7479.39990234375, 7498.7998...   
+215  [7460.10009765625, 7479.39990234375, 7498.7998...   
+
+                                                LAMMAX  \
+211  [7479.39990234375, 7498.7998046875, 7518.29980...   
+212  [7479.39990234375, 7498.7998046875, 7518.29980...   
+213  [7479.39990234375, 7498.7998046875, 7518.29980...   
+214  [7479.39990234375, 7498.7998046875, 7518.29980...   
+215  [7479.39990234375, 7498.7998046875, 7518.29980...   
+
+                                                  FLAM  \
+211  [-2.146164767021908e-18, 2.439025374559317e-18...   
+212  [-7.376681414450026e-19, -4.416619728332079e-1...   
+213  [-3.640075287169215e-18, -1.3853390322442358e-...   
+214  [-4.727027421601152e-18, -1.0179872950288237e-...   
+215  [2.191528592585235e-18, 1.1194766693223689e-18...   
+
+                                               FLAMERR  \
+211  [5.0726346484640765e-18, 1.6825720131020232e-1...   
+212  [5.072614796129375e-18, 1.6825639480910508e-18...   
+213  [5.072633821283464e-18, 1.6825683941868433e-18...   
+214  [5.0726449882217334e-18, 1.6825691179698793e-1...   
+215  [5.072633821283464e-18, 1.6825631209104383e-18...   
+
+                                              SIM_FLAM  
+211  [6.617914713162757e-20, 6.625157713401425e-20,...  
+212  [6.588812172767669e-20, 6.596851980580772e-20,...  
+213  [6.554348468027471e-20, 6.563225149975931e-20,...  
+214  [6.516011231575053e-20, 6.525662102878074e-20,...  
+215  [6.473790123652756e-20, 6.484184811272222e-20,...  
+                MJD      Texpose    NBIN_LAM   PTRSPEC_MIN   PTRSPEC_MAX
+count    216.000000   216.000000  216.000000    216.000000    216.000000
+mean   62319.259259  2400.000000  181.634259  20366.199074  20546.833333
+std      230.732216  1344.757324   20.604369  11528.759761  11517.103608
+min    61965.000000   900.000000  137.000000      1.000000    178.000000
+25%    62148.750000   900.000000  164.000000  10536.500000  10736.500000
+50%    62302.500000  3600.000000  187.500000  20800.000000  21000.000000
+75%    62516.250000  3600.000000  201.000000  30287.750000  30448.750000
+max    62770.000000  3600.000000  201.000000  39297.000000  39448.000000
+
+
+##############################
+           Summary            
+
+{
+    b'name': b'Hourglass Simulation',
+    b'data set': b'objects',
+    b'version': b'1.0_alpha',
+    b'date': b'2024-07-31-11:$M',
+    b'author': b'Roman SN PIT',
+    b'corresponding author': b'Ben Rose <ben_rose@baylor.edu>',
+    b'pandas': b'{"index_columns": ["CID"], "column_indexes": [{"name": null, "field_name": null, "pandas_type": "unicode", "numpy_type": "object", "metadata": {"encoding": 
+"UTF-8"}}], "columns": [{"name": "FIELD", "field_name": "FIELD", "pandas_type": "unicode", "numpy_type": "object", "metadata": null}, {"name": "SNTYPE", "field_name": "SNTYPE", 
+"pandas_type": "unicode", "numpy_type": "object", "metadata": null}, {"name": "ZCMB", "field_name": "ZCMB", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, 
+{"name": "RA", "field_name": "RA", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "DEC", "field_name": "DEC", "pandas_type": "float64", "numpy_type":
+"float64", "metadata": null}, {"name": "MWEBV", "field_name": "MWEBV", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "PEAKMJD", "field_name": 
+"PEAKMJD", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "SNRMAX_Y", "field_name": "SNRMAX_Y", "pandas_type": "float64", "numpy_type": "float64", 
+"metadata": null}, {"name": "SNRMAX_J", "field_name": "SNRMAX_J", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "PEAKMAG_Y", "field_name": 
+"PEAKMAG_Y", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "PEAKMAG_J", "field_name": "PEAKMAG_J", "pandas_type": "float64", "numpy_type": 
+"float64", "metadata": null}, {"name": "NOBS", "field_name": "NOBS", "pandas_type": "int64", "numpy_type": "int64", "metadata": null}, {"name": "TRESTMIN", "field_name": "TRESTMIN",
+"pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "TRESTMAX", "field_name": "TRESTMAX", "pandas_type": "float64", "numpy_type": "float64", "metadata": 
+null}, {"name": "SCONE_PROB_IA", "field_name": "SCONE_PROB_IA", "pandas_type": "float64", "numpy_type": "float64", "metadata": null}, {"name": "CID", "field_name": "CID", 
+"pandas_type": "int64", "numpy_type": "int64", "metadata": null}], "creator": {"library": "pyarrow", "version": "17.0.0"}, "pandas_version": "2.2.2"}'
+}
+DROPPED 291 duplicate CIDs
+##############################

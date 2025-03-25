@@ -1,0 +1,5 @@
+.jupyter
+.nova
+*.parquet
+*.pdf
+snana_output
