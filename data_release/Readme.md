@@ -1,10 +1,12 @@
 # The Hourglass Simulation
 
-This simulation is a catalog of transients from the [Nancy Grace Roman][roman] [High-Latitude Time-Domain Core Community Survey][hltds] produced by the [Roman Supernova Cosmology Project Infrastructure Team][pit]. The is the data associated with Rose et al. 2025. Details of the simulation process and associated input files can be found in that paper.
+This simulation is a catalog of transients from the [Nancy Grace Roman][roman] [High-Latitude Time-Domain Core Community Survey][hltds] produced by the [Roman Supernova Cosmology Project Infrastructure Team][pit]. There are 71,716 objects, 12,473,457 photometric values, and 563,230 spectra.
+The is the data associated with Rose et al. 2025. Details of the simulation process and associated input files can be found in that paper.
 
 [hltds]:https://science.nasa.gov/mission/roman-space-telescope/high-latitude-time-domain-survey/
 [pit]: https://github.com/roman-supernova-pit
 [roman]: https://roman.gsfc.nasa.gov
+
 
 ## Files
 

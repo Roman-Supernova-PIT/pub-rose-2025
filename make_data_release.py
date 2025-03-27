@@ -46,7 +46,7 @@ RELEASE_FOLDER = "data_release"
 dump_files = list(Path(".").glob(SNANA_FOLDER + "/PIP*/*DUMP.gz"))
 object_files = list(Path(".").glob(SNANA_FOLDER + "/PIP*/*HEAD*"))
 phot_files = list(Path(".").glob(SNANA_FOLDER + "/PIP*/*PHOT*"))
-class_file = Path(SNANA_FOLDER + "/merged_0.csv")
+class_file = Path(SNANA_FOLDER + "/predictions.csv")
 spec_files = list(Path(".").glob("snana_output/PIP*/*SPEC.FITS*"))
 
 object_files.sort(key=lambda x: str(x))
@@ -178,8 +178,8 @@ obj = obj.astype(
 )
 
 try:
-    class_ = pd.read_csv(class_file, comment="#", na_values=[-9, -99], index_col="CID")
-    class_.rename(columns={"PROB_models": "SCONE_PROB_IA"}, inplace=True)
+    class_ = pd.read_csv(class_file, comment="#", na_values=[-9, -99], index_col="snid")
+    class_.rename(columns={"pred_labels": "SCONE_PROB_IA"}, inplace=True)
     obj = obj.join(class_["SCONE_PROB_IA"], on="CID", rsuffix="_class")
     classification = True
 except FileNotFoundError:
