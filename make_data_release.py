@@ -23,7 +23,7 @@ def add_general_metadata(df, data_set_name):
     df.attrs["date"] = datetime.today().strftime("%Y-%m-%d-%H:%M")
     df.attrs["author"] = "Roman SN Cosmology PIT"
     df.attrs["corresponding author"] = "Ben Rose <ben_rose@baylor.edu>"
-    df.attrs["SNANA version"] = "v11_05t-74-g980fad9"
+    df.attrs["SNANA version"] = "v11_05u-21-gcfb8fdc"
 
 
 elasticc_map = {
